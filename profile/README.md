@@ -19,7 +19,7 @@ as well as commercial solvers such as [Gurobi](https://www.gurobi.com/),
 
 Originally developed by [Deltares](https://www.deltares.nl/), RTC-Tools is now
 an [LF Energy](https://lfenergy.org/projects/rtc-tools/) project under the Linux
-Foundation. It is maintained by Deltares in collaboration with Portfolio Energy and a growing
+Foundation. It is maintained by Deltares in collaboration with [PortfolioEnergy](https://portfolioenergy.com/) and a growing
 community of external contributors.
 
 To learn more, visit the [RTC-Tools repository](https://github.com/rtc-tools/rtc-tools)
