@@ -1,4 +1,9 @@
-# RTC-Tools
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtc-tools/rtc-tools/master/doc/images/rtc-tools-horizontal-white.svg">
+    <img src="https://raw.githubusercontent.com/rtc-tools/rtc-tools/master/doc/images/rtc-tools-horizontal-color.svg" alt="RTC-Tools logo" width="50%">
+  </picture>
+</p>
 
 RTC-Tools is an open-source, domain-agnostic Python framework for modeling,
 simulating, and optimizing dynamic systems. Its modular and extensible design
