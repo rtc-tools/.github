@@ -27,5 +27,29 @@ an [LF Energy](https://lfenergy.org/projects/rtc-tools/) project under the Linux
 Foundation. It is maintained by Deltares in collaboration with [PortfolioEnergy](https://portfolioenergy.com/) and a growing
 community of external contributors.
 
-To learn more, visit the [RTC-Tools repository](https://github.com/rtc-tools/rtc-tools)
-or read the [documentation](https://rtc-tools.readthedocs.io/).
+## Get started
+
+```bash
+pip install rtc-tools
+```
+
+- [Documentation](https://rtc-tools.readthedocs.io/)
+- [Package on PyPI](https://pypi.org/project/rtc-tools/)
+- [LF Energy project page](https://lfenergy.org/projects/rtc-tools/)
+
+## Repositories
+
+| Repository | Description |
+|---|---|
+| [rtc-tools](https://github.com/rtc-tools/rtc-tools) | The RTC-Tools framework |
+| [rtc-tools-standard-library](https://github.com/rtc-tools/rtc-tools-standard-library) | Subset of the Modelica Standard Library for RTC-Tools |
+| [rtc-tools-casadi-plugins](https://github.com/rtc-tools/rtc-tools-casadi-plugins) | CasADi solver plugin binaries and Python wheels for RTC-Tools |
+
+## Community
+
+- [Contributing](https://github.com/rtc-tools/rtc-tools/blob/master/CONTRIBUTING.md)
+- [Governance](https://github.com/rtc-tools/rtc-tools/blob/master/GOVERNANCE.md)
+- [Code of Conduct](https://github.com/rtc-tools/rtc-tools/blob/master/CODE_OF_CONDUCT.md)
+- [Discussions](https://github.com/rtc-tools/rtc-tools/discussions) and [issues](https://github.com/rtc-tools/rtc-tools/issues)
+
+RTC-Tools is licensed under the [LGPL-3.0](https://github.com/rtc-tools/rtc-tools/blob/master/COPYING.LESSER).
